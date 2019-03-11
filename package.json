@@ -1,0 +1,15 @@
+{
+  "name": "pres",
+  "version": "0.0.0",
+  "description": "pres yo",
+  "main": "index.js",
+  "scripts": {
+    "dev": "mdx-deck",
+    "build": "mdx-deck build"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mdx-deck": "^1.10.0"
+  }
+}
